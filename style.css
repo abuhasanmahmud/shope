@@ -4,6 +4,11 @@
 	font-family: 'Poppins', sans-serif;
 }
 /*--header section start--*/
+@media screen and (max-width:700px){
+	.banner{
+		height: 110vh;
+	}
+}
 .banner {
 	background: linear-gradient(rgba(0,0,0,0.5),#006799d9),url(images/banner.jpg);
 	background-size: cover;
