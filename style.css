@@ -4,6 +4,8 @@
 	font-family: 'Poppins', sans-serif;
 }
 /*--header section start--*/
+
+
 @media screen and (max-width:700px){
 	.banner{
 		height: 110vh;
